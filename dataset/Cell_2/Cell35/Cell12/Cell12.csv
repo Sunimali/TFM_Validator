@@ -1,0 +1,2 @@
+CellNum,CellType,Gel,RMS traction(Pa),Net Contractile Moment (PJ),Total Strain Energy(PJ),Max Force(nN),Prestress(Pa),Area (um2)
+12,HeLa,8.5 kPa,529.63728,-1.24746,0.38974,50.86765,-237.58427,1434.27997
